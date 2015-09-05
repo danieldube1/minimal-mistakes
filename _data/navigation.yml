@@ -1,12 +1,18 @@
 # Site navigation links
 
-- title: About
+- title: Home
   url: /about/
 
-- title: Sample Posts
+- title: Admission
+  url: /posts/
+  
+  - title: Education
+  url: /posts/
+  
+  - title: Community
   url: /posts/
 
-- title: Theme Setup
+- title: Research
   url: /theme-setup/
 
 - title: Made Mistakes
